@@ -11,7 +11,7 @@
  Target Server Version : 100424
  File Encoding         : 65001
 
- Date: 05/07/2022 00:33:37
+ Date: 05/07/2022 01:09:51
 */
 
 SET NAMES utf8mb4;
@@ -48,6 +48,6 @@ CREATE TABLE `tbl_user`  (
 -- Records of tbl_user
 -- ----------------------------
 INSERT INTO `tbl_user` VALUES (1, 'admin', 'admin', 'Admin', 'Mark Angelo', 'Cabanban', 'Vinzon', '1995-05-25', 'Male', 'Panicsican', 'San Juan', 'La Union', '09164144229', 'vinzonmarkangelo@gmail.com', 'ITSM', '1234567890', '1234567890', '1234567890', '');
-INSERT INTO `tbl_user` VALUES (2, 'user', 'user', 'User', 'Dranreb', 'Ganado', 'Gamoso', '2022-12-30', 'Male', 'Ili Norte', 'Cando City', 'Ilocos Sur', '1234567890', 'vinzonmarkangelo@gmail.com', 'ORD', '1234567890', '1234567890', '1234567890', ' ');
+INSERT INTO `tbl_user` VALUES (2, 'user', 'user', 'User', 'Dranreb', 'Ganadon', 'Gamoso', '2022-12-30', 'Male', 'Ili Norte', 'Candon City', 'Ilocos Sur', '1234567890', 'vinzonmarkangelo@gmail.com', 'ORD', '1234567890', '1234567890', '1234567890', ' ');
 
 SET FOREIGN_KEY_CHECKS = 1;
